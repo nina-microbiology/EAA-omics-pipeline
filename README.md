@@ -58,7 +58,7 @@ Developed as part of the University of Florida IFAS Department of Microbiology a
 Supported by Dr. Sarah Strauss and Dr. Willm Martens-Habbena.
 Field sampling and access to Everglades Agricultural Area (EAA) sites were made possible through the support of the UF IFAS Everglades Research and Education Center (EREC).
 The metagenomic and metatranscriptomic datasets analyzed in this repository were originally collected from Everglades Agricultural Area (EAA) soils in 2017 and sequenced by the DOE Joint Genome Institute (JGI-IMG) under studies published by Huang et al. (2021) and Zhao et al. (2023).
-Computational resources were provided by the University of Florida Research Computing Center (HiPerGator) with technical support from Grant Godden.
+Computational resources were provided by the University of Florida Research Computing Center (HiPerGator) with technical support from Dr. Grant Godden.
 This work was funded by the USDA National Institute of Food and Agriculture (NIFA) Agriculture and Food Research Initiative (AFRI) under award #2022-67019-36501.
 Some workflows and scripts were derived and customized from dbCAN3 and other open-source tools referenced below.
 
