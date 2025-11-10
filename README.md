@@ -38,7 +38,7 @@ example_output/
 ---
 
 ## Tools & Frameworks
-dbCAN3 • KofamScan • Prokka • GTDB-Tk • SAMtools • Bowtie2 • MEGAHIT • DIAMOND • Python • R
+dbCAN3 • KofamScan • Pyrodigal • CAMPer • GTDB-Tk • CheckM • SAMtools • Bowtie2 • BWA-MEM • MetaBAT2 • MEGAHIT • DIAMOND • featureCounts • Trim Galore! • BBTools • Python • R
 
 ---
 
