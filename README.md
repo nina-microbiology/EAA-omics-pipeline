@@ -4,9 +4,12 @@ UF dissertation project integrating metagenomic, metatranscriptomic, and CAZyme 
 ---
 
 ## Author
-**Nina Charissa Aguilar Infantado**  
-Ph.D. Candidate, University of Florida (UF IFAS SWFREC / FLREC)  
-ORCID: [0009-0008-0947-0611](https://orcid.org/0009-0008-0947-0611)  
+
+**Nina Charissa Aguilar Infantado, Ph.D.**  
+Microbial Biogeochemist  
+Ph.D., Microbiology & Cell Science Program, University of Florida/IFAS  
+Southwest Florida Research and Education Center (SWFREC) & Fort Lauderdale Research and Education Center (FLREC)  
+ORCID: https://orcid.org/0009-0008-0947-0611  
 Email: ninfantado@ufl.edu  
 
 Advised by Dr. Sarah Strauss and Dr. Willm Martens-Habbena.
