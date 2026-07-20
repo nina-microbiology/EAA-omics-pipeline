@@ -1,0 +1,12 @@
+THREADS=16
+MT_SAMPLE_SHEET='config/mt_pairs.tsv'
+CONTIGS='/path/to/unbinned_MG/final.contigs.fa'
+GENE_GFF='/path/to/unbinned_MG/genes.gff'
+MAP_DIR='results/01_mapping'
+COUNT_DIR='results/02_counts'
+TPM_DIR='results/03_tpm'
+MERGE_DIR='results/04_merged'
+DBCAN_TABLE='/path/to/dbcan_gene_table.tsv'
+KOFAM_TABLE='/path/to/kofam_gene_table.tsv'
+DIAMOND_TABLE='/path/to/diamond_gene_table.tsv'
+CAMPER_TABLE='/path/to/camper_gene_table.tsv'
