@@ -1,14 +1,15 @@
-# EAA-Omics-Pipeline
-UF dissertation project integrating metagenomic, metatranscriptomic, and CAZyme functional analyses of Everglades Agricultural Area (EAA) soils using dbCAN3, KofamScan, CAMPer, and custom multi-omics visualization workflows.
-
+# EAA-omics-pipeline
+Open-source workflows for metagenomic, metatranscriptomic, and genome-resolved analyses of Everglades Agricultural Area (EAA) soils using dbCAN3, KofamScan, CAMPer, and custom multi-omics visualization workflows.
 ---
 
 ## Author
 
 **Nina Charissa Aguilar Infantado, Ph.D.**  
 Microbial Biogeochemist  
-Ph.D., Microbiology & Cell Science Program, University of Florida/IFAS  
-Southwest Florida Research and Education Center (SWFREC) & Fort Lauderdale Research and Education Center (FLREC)  
+Ph.D., Microbiology & Cell Science
+University of Florida IFAS
+Southwest Florida Research and Education Center (SWFREC)
+Fort Lauderdale Research and Education Center (FLREC)
 ORCID: https://orcid.org/0009-0008-0947-0611  
 Email: ninfantado@ufl.edu  
 
