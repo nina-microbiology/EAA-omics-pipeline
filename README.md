@@ -1,5 +1,5 @@
 # EAA-omics-pipeline
-Open-source workflows for metagenomic, metatranscriptomic, and genome-resolved analyses of Everglades Agricultural Area (EAA) soils using dbCAN3, KofamScan, CAMPer, and custom multi-omics visualization workflows.
+Multi-omics workflows for metagenomic and metatranscriptomic analyses of subtropical peat soils from the Everglades Agricultural Area (EAA), USA, investigating lignin degradation, soil organic carbon cycling, and microbial functional ecology using dbCAN3, KofamScan, CAMPer, and HiPerGator.
 ---
 
 ## Author
@@ -53,7 +53,7 @@ Released under the [MIT License](LICENSE).
 
 ## Citation
 If you use or adapt these scripts, please cite:
-> Infantado, N.C.A. (2025). *EAA-omics-pipeline: multi-omics workflows for Everglades Agricultural Area soils.* GitHub repository, [https://github.com/nina-microbiology/EAA-omics-pipeline](https://github.com/nina-microbiology/EAA-omics-pipeline)
+> Infantado, N.C.A. (2026). *EAA-omics-pipeline: multi-omics workflows for Everglades Agricultural Area soils.* GitHub repository, [https://github.com/nina-microbiology/EAA-omics-pipeline](https://github.com/nina-microbiology/EAA-omics-pipeline)
 
 ---
 
@@ -68,10 +68,10 @@ Some workflows and scripts were derived and customized from dbCAN3 and other ope
 
 ---
 
-## Workflow Tools Referenced
+## Workflow Overview
 
-This repository integrates customized HiPerGator workflows used for the analysis of metagenomes (MG), metatranscriptomes (MT), and metagenome-assembled genomes (MAGs) from Everglades Agricultural Area (EAA) soils.  
-The workflows include:  
+This repository contains reproducible workflows for metagenomic (MG), metatranscriptomic (MT), and metagenome-assembled genome (MAG) analyses of Everglades Agricultural Area (EAA) soils. Workflows were originally developed on the University of Florida HiPerGator high-performance computing cluster but can be adapted to other Linux-based HPC systems.  
+The repository is organized into four workflow categories:  
 - **Unbinned MG workflows** — assembly, annotation, and functional profiling  
 - **MAG workflows** — binning, quality control, and genome-resolved annotation  
 - **Unbinned MG → MT mapping** — transcript mapping and expression quantification  
@@ -127,7 +127,7 @@ The workflows include:
 
 ### Computing and Visualization Environment
 All computational analyses were executed on the [University of Florida HiPerGator](https://www.rc.ufl.edu/) high-performance computing cluster using the SLURM workload manager.  
-Statistical summaries and figure rendering were conducted locally using:  
+Statistical analyses and publication-quality figure generation were performed using:  
 - **Python 3.8** — data integration and heatmap/synteny visualization (`pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `Biopython`)  
 - **R v4.3.1** — statistical summaries and figure rendering (`ggplot2`, `ggtree`, `ape`, `dplyr`, `tidyr`)  
 
